@@ -1,0 +1,13 @@
+listener_id,track_id,timestamp
+user_1,track_a,2026-09-01T10:00:00Z
+user_1,track_b,2026-09-01T10:03:00Z
+user_2,track_a,2026-09-01T11:00:00Z
+user_2,track_b,2026-09-01T11:03:00Z
+user_2,track_d,2026-09-01T11:06:00Z
+user_3,track_a,2026-09-01T12:00:00Z
+user_3,track_c,2026-09-01T12:03:00Z
+user_3,track_d,2026-09-01T12:06:00Z
+user_4,track_b,2026-09-01T13:00:00Z
+user_4,track_c,2026-09-01T13:03:00Z
+user_4,track_e,2026-09-01T13:06:00Z
+
